@@ -1,0 +1,68 @@
+.contenedor{
+    width: 60rem;
+    display: flex;
+    padding: 0.5rem;
+    justify-content: space-between;
+}  
+
+.contedor1{
+    width: 60rem;
+}
+
+.barra1{
+    background-color: wheat;
+    height: 2rem;
+    width: 60rem;
+    border-radius: 99px;
+}
+
+.barra2{
+    background-color: wheat;
+    height: 2rem;
+    width: 70rem; 
+    border-radius: 99px;   
+}
+
+.barra3{
+    background-color: wheat;
+    height: 2rem;
+    width: 70rem;
+    border-radius: 99px;  
+}
+
+.barra4{
+    background-color: wheat;
+    height: 2rem;
+    width: 70rem; 
+    border-radius: 99px;   
+}
+
+.contenedor-mayor{
+    width: 70rem;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.contenedor-madre{
+    width: 70rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logos{
+    height: 2rem;
+    width: 2rem;
+}
+
+
+.foto-perfil-eduardo{
+    height: 9rem;
+    width: 9rem;
+    border-radius: 50%;
+    margin: auto;
+}
+
+.probando{
+    width: 70rem;
+}
